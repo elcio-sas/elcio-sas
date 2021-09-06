@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elcio-sas
-- 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning about Financials
+- 👀 I’m interested in Optimization, Python and Machine Learning
+- 🌱 I’m always learning about Financials
 - 💞️ I’m looking to collaborate on companies goals
 - 📫 How to reach me: elcio.sabato@gmail.com
 
